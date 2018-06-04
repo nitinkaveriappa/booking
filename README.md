@@ -87,7 +87,6 @@ Service for a user to add reviews for a hotel. A review will include rating and 
 Delete information of a hotel, user or delete a review. The data associated with each hotel and user are also deleted accordingly.
 
 All this information will be stored in an RDBMS like MySQL. 
-The BookingSQL.sql file in the resources folder contains the SQL Scripts for the database.
 
 The following technologies have been used:
 
