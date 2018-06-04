@@ -6,6 +6,9 @@ Instructions
 
 Download the 'booking' application from Github.
 
+The BookingSQL.sql file in the resources folder contains the SQL Scripts for the database.
+Run the Scripts in MySQL Workbench.
+
 Import into Eclipse as a Maven Project and do a Maven Install/Update.
 Run the BookingApplication.java as a Java Application.
 
