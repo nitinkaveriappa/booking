@@ -6,6 +6,10 @@ Instructions
 
 Download the 'booking' application from Github.
 
+The database relational schema is as below:
+
+![alt text](images/bookingdb.png "Booking Relational Schema")
+
 The BookingSQL.sql file in the resources folder contains the SQL Scripts for the database.
 Run the Scripts in MySQL Workbench.
 
