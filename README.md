@@ -4,7 +4,7 @@ Booking.com sample project for Plash
 
 Instructions
 
-Download the 'booking' application from BitBucket.
+Download the 'booking' application from Github.
 
 Import into Eclipse as a Maven Project and do a Maven Install/Update.
 Run the BookingApplication.java as a Java Application.
